@@ -1,1 +1,1 @@
-[text] (https://github.com/Williams-Leith)
+[text](https://example.com)
