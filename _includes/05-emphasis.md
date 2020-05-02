@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Important
+*Playing with complicated things*
+**is the best way to learn**
+:smile:
